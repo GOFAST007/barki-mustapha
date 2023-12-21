@@ -1,12 +1,12 @@
 <!--   my-ticker -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Ivan+Tymoshchuk;Over+1+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+BARKI+MUSTAPHA;Over+10+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)
 
 <!--   my-header-img -->
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
 
-Languages : 🇺🇦 Ukrainian - Native | 🇫🇷 French - C1 | 🇬🇧 English - B1 | 🇵🇱 Polish - A2
+Languages : Arab - Native | 🇫🇷 French  | 🇬🇧 English - 
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
